@@ -2,7 +2,7 @@ import re
 import discord
 import asyncio
 from discord.ext import commands
-from old import get_response
+from ai import get_response
 import config
 
 current_task = None
