@@ -1,0 +1,9 @@
+TOKEN = "..."
+BASE_URL = "..."  # OpenAI-compatable. 
+MODEL = "..."
+CHANNEL = 0
+
+TEMPERATURE = 0.7
+HISTORY_LIMIT = 30
+SYSTEM_PROMPT = """You're an anime AI girl called Mini-sama. Your answers should always be cute and girly
+Format of the messages you're getting this: `name of the user: actual message`"""
